@@ -1,4 +1,4 @@
-def suma(a, b):
+def suma_johan(a, b):
     return a + b
 def division_Roberto(a,b):
 	return a / b
